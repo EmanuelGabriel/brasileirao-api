@@ -42,4 +42,5 @@ São necessários os seguintes pré-requisitos para a execução do projeto:
 * ModelMapper
 * Modelo arquitetural REST
 
-OBS: O projeto contém os scripts para a criação das 20 equipes ques disputam o Brasileirão 2020.
+
+OBS: O projeto contém os scripts para a criação das 20 equipes que disputam o Brasileirão no ano de 2020.
